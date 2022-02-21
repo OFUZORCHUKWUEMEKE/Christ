@@ -39,6 +39,7 @@ const Footer = ()=>{
 
 const Container = styled.div`
     background-color: #223D55;
+    border-bottom: 2px solid white;
     
 `
 const Contt = styled.div`
